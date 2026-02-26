@@ -40,7 +40,7 @@ export const Card: React.FC<Props> = (props) => (
 export function Root() {
   return <Card
     id={0}
-    image="https://placeholdit.com/400/dddddd/999999"
+    image="https://th.bing.com/th/id/R.7ce918e45574c4e4cf1acd7a73c7a7cd?rik=zIL9UlcdC%2fyjeg&riu=http%3a%2f%2fimg2.wikia.nocookie.net%2f__cb20120113005815%2fp__%2fprotagonist%2fimages%2f0%2f0e%2fPikachu02.jpg&ehk=lPm4VDL%2bkBVcpHnYkdLaA%2fRLnD6NVUACcjvAXugTSzo%3d&risl=&pid=ImgRaw&r=0"
     name="Pikachu"
     types={["grass"]}
     />
